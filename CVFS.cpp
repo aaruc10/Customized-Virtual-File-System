@@ -481,7 +481,7 @@ int main()//586
         fflush(stdin);//
         strcpy(str,"");
 
-        printf("\n Marvellous VFS:>");
+        printf("\n Aarti's VFS:>");
 
         fgets(str,80,stdin);//scanf("%[^'\n']s",str);
 
