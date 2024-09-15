@@ -506,7 +506,7 @@ int main()//586
             }
             else if(strcmp(command[0],"exit")==0)
             {
-                printf("Terminating the Marvellous Virtual File System\n");
+                printf("Terminating the  Virtual File System\n");
                 break;
             }
             else
