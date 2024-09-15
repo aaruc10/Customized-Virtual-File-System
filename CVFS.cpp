@@ -6,7 +6,7 @@
 //<include<io.h>
 
 //macros
-#define MAXINODE 50//8
+#define MAXINODE 5
 
 #define READ 1 
 #define WRITE 2
